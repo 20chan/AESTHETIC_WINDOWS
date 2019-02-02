@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Rain
+namespace TRUTH
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Rain
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Magnifier());
         }
     }
 }

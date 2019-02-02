@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Rain.Properties
+namespace TRUTH.Properties
 {
 
 
